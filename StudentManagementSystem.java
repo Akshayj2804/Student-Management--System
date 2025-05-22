@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class StudentManagementSystem {
     static final String DB_URL = "jdbc:mysql://localhost:3306/studentdb";
     static final String USER = "root";       // Replace with your MySQL username
-    static final String PASS = "Mission@2025";   // Replace with your MySQL password
+    static final String PASS = "password";   // Replace with your MySQL password
 
     public static void main(String[] args) {
         try (
